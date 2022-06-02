@@ -2,9 +2,11 @@
 
 ![Course Banner](banner.png)
 
-Dear EMBA 60 W10 / EMBA 61 WS students,
+Dear GSERM Course Participants,
 
-welcome to our elective course **Coding und Künstliche Intelligenz**, taught by **Prof. Dr. Damian Borth** and **Prof. Dr. Barbara Weber**. In this course, lectures and hands-on lab courses alternate to provide a better learning experience. Lab course materials for Python programming, Machine Learning und Deep Learning are available in and accessible through this repository.
+Welcome to our GSERM course **Deep Learning: Fundamentals and Applications**, taught by **Prof. Dr. Damian Borth** and **Prof. Dr. Korbinan Riedhammer**.  In this course, theoretical sessions and practical hands-on coding lab sessions alternate to provide a better learning experience. The guided coding labs will be (partially) thaught by **Marco Schreyer**.
+
+The lab materials for Python programming, Machine Learning und Deep Learning are available in and accessible through this repository.
 
 Please use a laptop computer for the lab courses (not a tablet) to be able to fully participate in the exercises.
 
