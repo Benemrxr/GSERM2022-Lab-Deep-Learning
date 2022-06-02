@@ -8,7 +8,7 @@ Welcome to our GSERM course **Deep Learning: Fundamentals and Applications**, ta
 
 The lab materials for Python programming, Machine Learning und Deep Learning are available in and accessible through this repository.
 
-Please use a laptop computer for the lab courses (not a tablet) to be able to fully participate in the exercises.
+Please use a laptop computer for the lab courses (not a tablet) to be able to fully participate in the labs.
 
 Happy Coding!
 
