@@ -28,10 +28,10 @@ The following table lists all lab session and coding challenge session incl. the
 |  < Mon, June 20th | Prerequisite | Test Notebook | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main?filepath=lab_00%2lab_00.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/lab_00/lab_00.ipynb)|
 |  < Mon, June 20th | Prerequisite | Python Basics | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main?filepath=lab_01%2lab_01.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/lab_01/lab_01.ipynb)|
 |  < Mon, June 20th | Prerequisite | Python Libraries | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main?filepath=lab_02%2lab_02.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/lab_02/lab_02.ipynb)|
-| Mon, June 20th |  Machine Learning | Naive Bayes  | - | - |
-| Tue, June 21st |  Deep Learning    | Artificial Neural Networks | - | - |
-| Wed, June 22nd |  Deep Learning    | Convolutional Neural Networks | - | - |
-| Wed, June 22nd |  Deep Learning    | Autoencoder Neural Networks | - | - |
-| Thu, June 23rd |  Deep Learning    | Recurrent Neural Networks | - | - |
+| Mon, June 20th |  Machine Learning | (Naive) Bayes Theorem  | - | - |
+| Tue, June 21st |  Deep Learning    | Artificial Neural Networks (ANNs) | - | - |
+| Wed, June 22nd |  Deep Learning    | Convolutional Neural Networks (CNNs) | - | - |
+| Wed, June 22nd |  Deep Learning    | Autoencoder Neural Networks (AENs)| - | - |
+| Thu, June 23rd |  Deep Learning    | Recurrent Neural Networks (RNNs)| - | - |
 | Fri, June 24th |  Deep Learning    | Attention Neural Networks | - | - |
 | < TBD          |  Exam Assignment | - | - | - |
