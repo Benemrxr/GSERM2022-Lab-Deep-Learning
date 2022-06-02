@@ -21,5 +21,5 @@ This table lists all coding lab notebooks and exercise notebooks:
 |:-----------------------:|:---------------------------------:|:-------------------------------:|:-------:|:-------:|
 |  < Mon, Apr 4 | Prerequisite | - | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/EMBA2022-Lab/main?filepath=lab_00%2FTest.ipynb)</br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/EMBA2022-Lab/blob/main/lab_00/Test.ipynb)| - |
 
-| Wed, Apr 6, afternoon session |  Deep Learning II<br/>(Convolutional Neural Nets) | - | - | -) |
+| Wed, Apr 6, afternoon session |  Deep Learning II<br/>(Convolutional Neural Nets) | - | - | - |
 | < TBD          |  Exam Exercise | -  | - | - |
