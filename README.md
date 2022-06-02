@@ -12,8 +12,13 @@ Please use a laptop computer for the lab courses (not a tablet) to be able to fu
 
 Happy Coding!
 
-Your GSERM teaching team
+## Course Logistics
 
+- **Lectures:** Daily 09:15-12:30 CET, Zoom links are posted on Canvas.
+- **Labs:** Daily 13:30-15:15 CET, Zoom links are posted on Canvas.
+- **Zoom Videos:** Will be posted on Canvas shortly after each lecture/lab.
+- **Office Hours:** Daily 16:00-17:00 CET, please send us a corresponding invitation via mail.
+- **Announcements:** All course-related announcements and questions will happen on Canvas.
 
 ## Course Code Lab Notebooks ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
