@@ -24,7 +24,7 @@ The following table lists all lab session and coding challenge session incl. the
 
 
 | Date                    | Topic                            | Description                      |  Binder Notebook  | Colab Notebook    | 
-|:-----------------------:|:--------------------------------|:--------------------------------|:-----------------:|:-----------------:|
+|:-----------------------|:--------------------------------|:--------------------------------|:-----------------:|:-----------------:|
 |  < Mon, June 20th | Prerequisite | Test Notebook | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main?filepath=lab_00%2lab_00.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/lab_00/lab_00.ipynb)|
 |  < Mon, June 20th | Prerequisite | Python Basics | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main?filepath=lab_01%2lab_01.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/lab_01/lab_01.ipynb)|
 |  < Mon, June 20th | Prerequisite | Python Libraries | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main?filepath=lab_02%2lab_02.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/lab_02/lab_02.ipynb)|
