@@ -2,19 +2,27 @@
 
 ![Course Banner](banner.png)
 
-Dear EMBA 60 W10 / EMBA 61 WS students,
+Dear GSERM Course Participants,
 
-welcome to our elective course **Coding und Künstliche Intelligenz**, taught by **Prof. Dr. Damian Borth** and **Prof. Dr. Barbara Weber**. In this course, lectures and hands-on lab courses alternate to provide a better learning experience. Lab course materials for Python programming, Machine Learning und Deep Learning are available in and accessible through this repository.
+Welcome to our GSERM course **Deep Learning: Fundamentals and Applications**, taught by **Prof. Dr. Damian Borth** and **Prof. Dr. Korbinan Riedhammer**.  In this course, theoretical sessions and practical hands-on coding lab sessions alternate to provide a better learning experience. The guided coding labs will be (partially) thaught by **Marco Schreyer**.
 
-Please use a laptop computer for the lab courses (not a tablet) to be able to fully participate in the exercises.
+The lab materials for Python programming, Machine Learning und Deep Learning are available in and accessible through this repository.
+
+Please use a laptop computer for the lab courses (not a tablet) to be able to fully participate in the labs.
 
 Happy Coding!
 
-Your GSERM teaching team
+## Course Logistics
 
----
+- **Lectures:** Daily 09:15-12:30 CET, Zoom links are posted on Canvas.
+- **Labs:** Daily 13:30-15:15 CET, Zoom links are posted on Canvas.
+- **Zoom Videos:** Will be posted on Canvas shortly after each lecture/lab.
+- **Office Hours:** Daily 16:00-17:00 CET, please send us a corresponding invitation via mail.
+- **Announcements:** All course-related announcements and questions will happen on Canvas.
 
-This table lists all coding lab notebooks and exercise notebooks:
+## Course Code Lab Notebooks ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+
+The following table lists all lab session and coding challenge session incl. the launchers of the corresponding notebooks. In order to start the notebooks in the respective cloud environment just click on the to corresponding launchers. We aim to upload each lab notebook the day before the lab respectively.
 
 
 | Date                      |  Topic                            |  Binder Notebook                       | Colab Notebook | 
