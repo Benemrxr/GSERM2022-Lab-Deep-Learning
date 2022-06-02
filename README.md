@@ -17,7 +17,7 @@ Your GSERM teaching team
 This table lists all coding lab notebooks and exercise notebooks:
 
 
-| Date                      |  Topic                            |  Colab Notebook                       | Binder Notebook | 
+| Date                      |  Topic                            |  Binder Notebook                       | Colab Notebook | 
 |:-----------------------:|:---------------------------------:|:-------:|:-------:|
 |  < Mon, June 20th | Prerequisite | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main?filepath=lab_00%2lab_00.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/lab_00/lab_00.ipynb)|
 <!--| Wed, Apr 6, afternoon session |  Deep Learning II (Convolutional Neural Nets) | - | - |
