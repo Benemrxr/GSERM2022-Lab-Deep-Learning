@@ -2,8 +2,6 @@
 
 ![Course Banner](banner.png)
 
-Dear GSERM Course Participants,
-
 Welcome to our GSERM course **Deep Learning: Fundamentals and Applications**, taught by **Prof. Dr. Damian Borth** and **Prof. Dr. Korbinan Riedhammer**.  In this course, theoretical sessions and practical hands-on coding lab sessions alternate to provide a better learning experience. The guided coding labs will be (partially) thaught by **Marco Schreyer**.
 
 The lab materials for Python programming, Machine Learning und Deep Learning are available in and accessible through this repository.
