@@ -16,7 +16,9 @@ Your GSERM teaching team
 
 ---
 
-This table lists all coding lab notebooks and exercise notebooks:
+## Course Code Lab Notebooks ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+
+This table lists all lab session and coding challenge session incl. the launchers of the corresponding notebooks. In order to start the notebooks in the respective cloud environment just click on the to corresponding launchers. We aim to upload each lab notebook the day before the lab respectively.
 
 
 | Date                      |  Topic                            |  Binder Notebook                       | Colab Notebook | 
