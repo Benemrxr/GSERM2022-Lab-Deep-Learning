@@ -34,4 +34,4 @@ The following table lists all lab session and coding challenge session incl. the
 | Wed, June 22nd |  Deep Learning    | Autoencoder Neural Networks (AENs)| - | - |
 | Thu, June 23rd |  Deep Learning    | Recurrent Neural Networks (RNNs)| - | - |
 | Fri, June 24th |  Deep Learning    | Attention Neural Networks | - | - |
-| < TBD          |  Exam Assignment | - | - | - |
+| < TBD          |  Assignment | - | - | - |
