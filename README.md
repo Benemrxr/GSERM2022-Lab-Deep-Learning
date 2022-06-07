@@ -35,3 +35,9 @@ The following table lists all lab session and coding challenge session incl. the
 | Thu, June 23rd |  Deep Learning    | Recurrent Neural Networks (RNNs)| - | - |
 | Fri, June 24th |  Deep Learning    | Attention Neural Networks | - | - |
 | < TBD          |  Assignment | - | - | - |
+
+## Questions?
+
+Pls. don't hesitate to send us all your questions using the course mail address: 
+
+![Course E-mail](https://github.com/HSG-AIML/LabGSERM/blob/main/course_email.png)
