@@ -22,9 +22,6 @@ Happy Coding!
 
 The following table lists all lab session and coding challenge session incl. the launchers of the corresponding notebooks. In order to start the notebooks in the respective cloud environment just click on the to corresponding launchers. We aim to upload each lab notebook the day before the lab respectively.
 
-
-lab%2Ftree%2Flab_00%2Flab_00.ipynb
-
 | Date                    | Topic                            | Description                      |  Binder Notebook  | Colab Notebook    | 
 |:-----------------------|:--------------------------------|:--------------------------------|:-----------------:|:-----------------:|
 |  < Mon, June 20th | Prerequisite | Test Notebook | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main?filepath=lab_00%2Flab_00.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/lab_00/lab_00.ipynb)|
