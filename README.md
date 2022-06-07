@@ -35,7 +35,7 @@ The following table lists all lab session and coding challenge session incl. the
 | Fri, June 24th |  Deep Learning    | Attention Neural Networks | - | - |
 | < TBD          |  Assignment | - | - | - |
 
-Launch all lab notebooks in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/).
+Launch all lab notebooks in either [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/).
 
 ## Questions?
 
