@@ -35,6 +35,8 @@ The following table lists all lab session and coding challenge session incl. the
 | Fri, June 24th |  Deep Learning    | Attention Neural Networks | - | - |
 | < TBD          |  Assignment | - | - | - |
 
+Launch all lab notebooks: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main)
+
 ## Questions?
 
 Pls. don't hesitate to send us all your questions using the course mail address: 
