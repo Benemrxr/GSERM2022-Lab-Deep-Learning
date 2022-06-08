@@ -22,7 +22,7 @@ Happy Coding!
 
 The following table lists all lab session and coding challenge session incl. the launchers of the corresponding notebooks. In order to start the notebooks in the respective cloud environment just click on the to corresponding launchers. We aim to upload each lab notebook the day before the lab respectively.
 
-| Date              | Lab             | Topic                 | Description          |  Binder Notebook  | Colab Notebook    | 
+| Date            | Lab           | Topic                 | Description          |  Binder Notebook  | Colab Notebook    | 
 |:----------------|:--------------|:----------------------|:-------------------------|:-----------------:|:-----------------:|
 |  < Mon, June 20th | Lab 00 | Prerequisite | Test Notebook | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main?filepath=lab_00%2Flab_00.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/lab_00/lab_00.ipynb)|
 |  < Mon, June 20th | Lab 01 | Prerequisite | Python Basics | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main?filepath=lab_01%2Flab_01.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/lab_01/lab_01.ipynb)|
@@ -33,7 +33,7 @@ The following table lists all lab session and coding challenge session incl. the
 | Wed, June 22nd | Lab 06 | Deep Learning    | Autoencoder Neural Networks (AENs) | - | - |
 | Thu, June 23rd | Lab 07 | Deep Learning    | Recurrent Neural Networks (RNNs)| - | - |
 | Fri, June 24th | Lab 08 | Deep Learning    | Attention Neural Networks | - | - |
-| < TBD          |  Assignment | - | - | - |
+| < TBD          |    -   | Assignment | - | - | - |
 
 Launch all lab notebooks in either [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/).
 
