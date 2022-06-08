@@ -33,7 +33,7 @@ The following table lists all lab session and coding challenge session incl. the
 | Wed, June 22nd | Lab 06 | Deep Learning    | Autoencoder Neural Networks (AENs) | - | - |
 | Thu, June 23rd | Lab 07 | Deep Learning    | Recurrent Neural Networks (RNNs)| - | - |
 | Fri, June 24th | Lab 08 | Deep Learning    | Attention Neural Networks | - | - |
-| < TBD          |    -   | Assignment | - | - | - |
+| < TBD          |    -   | Assignment       | Kick-Start Notebook | - | - |
 
 Launch all lab notebooks in either [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/).
 
