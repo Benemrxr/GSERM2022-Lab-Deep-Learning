@@ -37,7 +37,7 @@ The following table lists all lab session and coding challenge session incl. the
 
 Launch all lab notebooks in either [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/).
 
-<!-- | Mon, June 20th |  Machine Learning | (Naive) Bayes Theorem  |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main?filepath=lab_03%2Flab_03.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/lab_03/lab_03.ipynb)|
+| Mon, June 20th |  Machine Learning | (Naive) Bayes Theorem  |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main?filepath=lab_03%2Flab_03.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/lab_03/lab_03.ipynb)|
 
 | Tue, June 21st |  Deep Learning    | Artificial Neural Networks (ANNs) |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main?filepath=lab_04%2Flab_04.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/lab_04/colab_04.ipynb)|
 | Wed, June 22nd |  Deep Learning    | Convolutional Neural Networks (CNNs) |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main?filepath=lab_05%2Flab_05.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/lab_05/colab_05.ipynb)|
@@ -45,7 +45,7 @@ Launch all lab notebooks in either [![Binder](https://mybinder.org/badge_logo.sv
 | Thu, June 23rd |  Deep Learning    | Recurrent Neural Networks (RNNs) |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main?filepath=lab_07%2Flab_07.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/lab_07/lab_07.ipynb)|
 | Fri, June 24th |  Deep Learning    | Attention Neural Networks |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main?filepath=lab_08%2Flab_08.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/lab_08/lab_08.ipynb)| 
 | < TBD  |  Deep Learning    | Assignment   |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main?filepath=lab_08%2Flab_08.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/lab_08/lab_08.ipynb)| 
--->
+<!-- -->
 
 ## Questions?
 
