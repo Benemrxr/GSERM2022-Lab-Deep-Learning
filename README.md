@@ -36,7 +36,7 @@ The following table lists all lab session and coding challenge session incl. the
 | Thu, June 23rd | Lab 07 | Deep Learning    | Recurrent Neural Networks (RNNs) |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main?filepath=lab_07%2Flab_07.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/lab_07/lab_07.ipynb)|
 | Thu, June 23rd | Bonus 3 | Deep Learning   | Recurrent Neural Networks (RNNs)| - | - |
 | Fri, June 24th |  Lab 08 |  Deep Learning    | Attention Neural Networks |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main?filepath=lab_08%2Flab_08.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/lab_08/lab_08.ipynb)| 
-| < TBD          |    -   | Assignment       | Kick-Start Notebook | - | - |
+| < TBD  |  - |  Deep Learning    | Assignment   |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main?filepath=exam%2Fbinder_exam_exercise.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/exam/exam_exercise.ipynb)| 
 
 Launch all lab notebooks in either [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2022-Lab/main) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2022-Lab/blob/main/).
 
